@@ -1,0 +1,35 @@
+body{
+    background-color: darksalmon;
+}
+.begin{
+    font-size: 30px;
+    display: flex;
+}
+form{
+    font-family: "JetBrains Mono Light";
+    font-size: 30px;
+}
+.begin{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+.first{
+    font-size: 35px;
+}
+.firstcustomer{
+    display: flex;
+}
+.secondcustomer{
+    display: flex;
+    text-align: center;
+}
+img{
+    padding: 20px;
+}
+h3{
+    text-align: center;
+}
+.customer{
+    font-family: "emoji";
+}
